@@ -35,7 +35,7 @@
 }
 
 .sec5_div1{
-    background-image: url(/images/deal-bloom.png);
+    background-image: url(./images/deal-bloom.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
@@ -46,7 +46,7 @@
 }
 
 .sec5_div2{
-    background-image: url(/images/deal-ana.png);
+    background-image: url(./images/deal-ana.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
@@ -54,7 +54,7 @@
 }
 
 .sec5_div3{
-    background-image: url(/images/deal-zabo.png);
+    background-image: url(./images/deal-zabo.png);
     background-repeat: no-repeat;
     width: 753px;
     height: 423px;
@@ -66,7 +66,7 @@
 }
 
 .sec6{
-    background-image: url(/images/news-letter-bg.png);
+    background-image: url(./images/news-letter-bg.png);
     background-repeat: no-repeat;
     width: 1333px;
     height: 533px; 
