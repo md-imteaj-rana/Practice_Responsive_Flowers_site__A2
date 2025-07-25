@@ -69,9 +69,22 @@
     background-image: url(/images/news-letter-bg.png);
     background-repeat: no-repeat;
     width: 1333px;
-    height: 533px;
+    height: 533px; 
     
 }
+
+/* @media only screen and (max-width: 600px) {
+    .sec6{
+       width: 393px;
+       height: 275px;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .sec6{
+        width: 1333px;
+        height: 533px;
+    }
+} */
 
 .sec6_h2{
     font-family: "noto-serif";
