@@ -89,3 +89,17 @@
     width: 36px;
 }
 
+.main_img{
+    display: block;
+}
+
+.sec3_div1{
+    position: relative;
+    display: inline-block;
+}
+
+.flt_img{
+    position: absolute;
+    top: -120px;    
+    right: -110px; 
+}
