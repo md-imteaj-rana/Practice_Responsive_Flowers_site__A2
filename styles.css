@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.noto-serif {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+
+.li_nav{
+    font-family: inter;
+}
+
+.banner_div1_h2{
+    font-family: "noto-serif"
+}
+
+.sec3_div2_h2{
+    font-family: "noto-serif";
+}
+
+.sec4_h2{
+    font-family: "noto-serif";
+}
+
+.sec5_div1{
+    background-image: url(/images/deal-bloom.png);
+    background-repeat: no-repeat;
+}
+
+.sec5_div2{
+    background-image: url(/images/deal-ana.png);
+    background-repeat: no-repeat;
+}
+
+.sec5_div3{
+    background-image: url(/images/deal-zabo.png);
+    background-repeat: no-repeat;
+}
+
+.card_part_div1_txt_h2{
+    font-family: "noto-serif";
+}
+
+.sec6{
+    background-image: url(/images/news-letter-bg.png);
+    background-repeat: no-repeat;
+}
+
+.sec6_h2{
+    font-family: "noto-serif";
+}
